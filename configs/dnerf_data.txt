@@ -1,0 +1,7 @@
+basedir = /playpen1/wzh/PDFVS_data/setup_1212_wsz_1
+trial_idx = 3
+output_type = 2
+frame_start = 330
+frame_end = 332
+resize_factor = 4
+save_video
