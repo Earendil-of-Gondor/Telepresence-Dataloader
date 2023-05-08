@@ -1,0 +1,7 @@
+basedir = /playpen1/wzh/PDFVS_data/setup_0302_wsz_1
+outdir = setup_0302_wsz_1_t11_450_480_f4
+trial_idx = 11
+output_type = 0,3,4
+frame_start = 450
+frame_end = 480
+resize_factor = 4
